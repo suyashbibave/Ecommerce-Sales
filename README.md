@@ -17,7 +17,7 @@ This project features an interactive Ecommerce Sales Dashboard built to visualiz
 * Power BI Desktop
 
 ## How to Use
-1.  Download the `ecommerce_sales_dashboard.pbix` file from this repository.
+1.  Download the `Ecommerce Sales Dashboard.pbix` file from this repository.
 2.  Open the file using Power BI Desktop.
 3.  Interact with the dashboard by using the filters and clicking on various elements to explore the data.
 
