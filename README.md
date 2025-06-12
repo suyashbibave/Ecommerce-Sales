@@ -25,7 +25,7 @@ This project features an interactive Ecommerce Sales Dashboard built to visualiz
 The dashboard is built using a sample e-commerce sales dataset.
 
 ## Screenshots
-![Ecommerce Sales Dashboard](image_990fd7.jpg)
+[![Ecommerce Sales Dashboard](image_990fd7.jpg)](https://github.com/suyashbibave/Ecommerce-Sales/blob/main/Ecommerce%20Sales%20Dashboard.pdf)
 
 ## Future Enhancements
 * Adding more detailed customer segmentation.
